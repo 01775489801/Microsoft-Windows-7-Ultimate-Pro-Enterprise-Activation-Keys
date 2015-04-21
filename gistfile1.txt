@@ -158,3 +158,6 @@ REAL: Windows 7 Enterprise
 
 REAL: Microsoft Office 2010 Standard
 V7QKV-4XVVR-XYV4D-F7DFM-8R6BM
+
+Visual Studio Premium 2012:
+HRFXP-FH366-KTVG9-HXXV8-QM3F8
